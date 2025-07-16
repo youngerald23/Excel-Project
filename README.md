@@ -52,3 +52,6 @@ Microsoft Excel (PivotTables, PivotCharts, Slicers, Timelines)
 Excel Formulas (SUM, AVERAGE, COUNT, etc.)
 
 Custom formatting for KPI cards
+
+🙌 Acknowledgements
+Thanks to Mentors for inspiring this project idea. This dashboard was created as a practice exercise to improve skills in Excel-based data visualization and storytelling.
